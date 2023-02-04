@@ -1,3 +1,6 @@
+#to start use this program please run this commands in order
+#1) python3 -m venv venv
+#2) pip3 install replit
 from logo import logo
 import random 
 from replit import clear
